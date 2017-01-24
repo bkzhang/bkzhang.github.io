@@ -1,0 +1,61 @@
+
+# SEO settings
+title: bkzh4ng 
+description: "site about hacking, *nix, dotfiles and other rather unrelated things"
+keywords: "ricing, minimalism, nix, unix, arch, gentoo, funtoo, macos, open-source, hack, hacking, dotfiles,  mit, git, code, algorithm, algorithms, theory, data structures, data science, machine learning, deep learning, data, analysis, branch, bunch, university, school"
+url: #https://bkzhang.github.io
+baseurl: null
+
+google_analytics:
+repo: https://bkzhang.github.io
+
+# Build settings
+permalink   : /:year/:title/
+markdown    : kramdown
+highlighter : pygments
+
+paginate: 4
+paginate_path: "/page/:num/"
+comments: true
+
+source: source
+destination: html
+
+# Sass configuration
+sass:
+  sass_dir: assets/scss
+  style: compressed # expanded
+
+# Author settings
+author:
+  name     : "bkzh4ng"
+  job      : " ..cache miss.."
+  bio      : "programmer // *nix // lore"
+  thumb    : /images/thumb.jpg
+  email    : brian.k.zhang@gmail.com 
+  url      : https://bkzhang.github.io
+  github   : https://github.com/bkzhang
+
+# social settings
+og_locale: "en_CAN"
+disqus_shortname: "bkzhang"
+
+gems:
+  - jekyll-paginate
+  - jekyll-sitemap
+
+# navbar pages
+navbar:
+  - slug : about
+    title: About
+  - slug : code
+    title: Code
+  - slug : img
+    title: img 
+  - slug : contact
+    title: contact
+  - slug : feed
+    title: feed 
+
+
+exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md"]
