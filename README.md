@@ -10,6 +10,8 @@ To run it,
 
 (make sure you have ruby and ruby gems)
 
+> To host on GitHub, move all files in source folder to main directory 
+
 # simplest
 
 Simple Jekyll theme
