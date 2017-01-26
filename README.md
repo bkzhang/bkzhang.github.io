@@ -8,8 +8,6 @@ To run it,
 -> bundle install
 -> bundle exec jekyll serve  
 
-(make sure you have ruby and ruby gems)
-
 > To host on GitHub, move all files in source folder to main directory 
 
 # simplest
