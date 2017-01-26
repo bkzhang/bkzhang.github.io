@@ -11,4 +11,5 @@ A hobbit should feel comfortable sitting on his rocking chair by the warm hearth
 {: style="text-align: justify;"}
 <br>
 
-Poor [Branch Bunch](https://github.com/Branch-Bunch), so much code to write but even more school to attend. Just reading the assignment  and pre-lab document is a struggle. Dozens of pages to read, and a ton of work to do, all due on Friday. To attend hackathons or to straight up fail university..tough choices.{: style="text-align: justify;"} 
+Poor [Branch Bunch](https://github.com/Branch-Bunch), so much code to write but even more school to attend. Just reading the assignment  and pre-lab document is a struggle. Dozens of pages to read, and a ton of work to do, all due on Friday. To attend hackathons or to straight up fail university..tough choices.
+{: style="text-align: justify;"} 
