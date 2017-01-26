@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Things to learn"
-date: 2017-0-1-25
+date: 2017-01-25
 category: interview, jobs, coding, c, unix, cpp, gnu
 keywords: "interview, jobs, coding, c, cpp, unix, gnu"
 comments: true
