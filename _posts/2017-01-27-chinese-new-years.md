@@ -25,5 +25,5 @@ Also works for weather.
 
 ``` bash
 $ curl wttr.in/Ottawa
-$ curl -s wttr.in/Ottawa | head -7
+ $ curl -s wttr.in/Ottawa | head -7
 ```
