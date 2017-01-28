@@ -1,6 +1,6 @@
 ---
 layout: post
-title "Happy Chinese New Years"
+title: "Happy Chinese New Years"
 date: 2017-01-27
 category: other
 keywords: "other"
@@ -25,5 +25,5 @@ Also works for weather.
 
 ~~~ bash
 $ curl wttr.in/Ottawa
-$ curl -s wttr.in/Ottawa | head -7
+ $ curl -s wttr.in/Ottawa | head -7
 ~~~
