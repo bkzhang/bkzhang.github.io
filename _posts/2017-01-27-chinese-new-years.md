@@ -15,7 +15,7 @@ Here's a cool and relavent curl.
 <br>
 
 ~~~ bash
-$ curl wttr.in/moon
+ $ curl wttr.in/moon
 ~~~
 
 <br>
@@ -24,6 +24,6 @@ Also works for weather.
 <br>
 
 ~~~ bash
-$ curl wttr.in/Ottawa
+ $ curl wttr.in/Ottawa
  $ curl -s wttr.in/Ottawa | head -7
 ~~~
