@@ -15,7 +15,7 @@ Here's a cool and relavent curl.
 <br>
 
 ``` bash
-$ curl wttr.in/moon
+$ curl wttr.in/Moon
 ```
 
 <br>
