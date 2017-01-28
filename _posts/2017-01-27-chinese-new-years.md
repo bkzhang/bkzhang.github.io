@@ -14,16 +14,16 @@ Happy Chinese New Years! Not much here to be said, just wishing everyone the bes
 Here's a cool and relavent curl.
 <br>
 
-~~~ bash
- $ curl wttr.in/moon
-~~~
+``` bash
+$ curl wttr.in/moon
+```
 
 <br>
 
 Also works for weather.
 <br>
 
-~~~ bash
- $ curl wttr.in/Ottawa
- $ curl -s wttr.in/Ottawa | head -7
-~~~
+``` bash
+$ curl wttr.in/Ottawa
+$ curl -s wttr.in/Ottawa | head -7
+```
