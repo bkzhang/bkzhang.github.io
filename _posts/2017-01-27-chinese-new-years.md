@@ -11,7 +11,7 @@ Happy Chinese New Years! Not much here to be said, just wishing everyone the bes
 {: style="text-align: justify;"}
 <br>
 
-Here's a cool and relavent curl.
+Here's a cool and relevant curl.
 <br>
 
 ``` bash
